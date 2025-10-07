@@ -3,9 +3,9 @@
 📫 How to reach me **shravankumar.murki@gmail.com**
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shravankumar05&show_icons=true&locale=en&layout=compact" alt="shravankumar05" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shravankumar05&show_icons=true&locale=en&layout=compact" alt="shravankumar05" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shravankumar05&" alt="shravankumar05" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shravankumar05&" alt="shravankumar05" /></p>
 
 
 <h3 align="left">Connect with me:</h3>
