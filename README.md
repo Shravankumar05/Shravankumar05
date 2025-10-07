@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Shravan Kumar Murki</h1>
 <h3 align="center">Electronic and Information Engineering Student, Imperial College London</h3>
-📫 How to reach me **shravankumar.murki@gmail.com**
-
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shravankumar05&show_icons=true&locale=en&layout=compact" alt="shravankumar05" /></p>
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shravankumar05&" alt="shravankumar05" /></p>
-
-
+<hr>
+<h2> Languages </h2>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shravankumar05&show_icons=true&locale=en&layout=compact" alt="shravankumar05" /></p>
+<hr>
+<h2>Education</h2>
+<p><b>Imperial College London:</b> Electronic and Information Engineering</p>
+<p>2023 - 2027</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shravankumar-m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shravankumar-m" height="30" width="40" /></a>
